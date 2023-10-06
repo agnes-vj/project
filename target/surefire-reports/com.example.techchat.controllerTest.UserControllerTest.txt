@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.techchat.controllerTest.UserControllerTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.281 sec
