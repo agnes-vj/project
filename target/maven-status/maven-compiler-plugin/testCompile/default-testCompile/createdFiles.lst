@@ -1,0 +1,5 @@
+com\example\techchat\modelTest\UserTest.class
+com\example\techchat\controllerTest\UserControllerTest.class
+com\example\techchat\modelTest\RoleTest.class
+com\example\techchat\setup\StandaloneMvcTestViewResolver.class
+com\example\techchat\controllerTest\SampleTest.class
